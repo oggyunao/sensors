@@ -8,7 +8,7 @@
 
 ```	
 import (
-	oasispkgsensors "oasis/pkg/sensors/v2.1.3"
+	oasispkgsensors "sensorsanalytics"
 )
 
 ```
@@ -103,6 +103,3 @@ func (repo *sendToKafkaRepo) SendSensorsData(ctx context.Context, msg []byte) er
 }
 
 ```
-
-
-

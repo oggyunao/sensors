@@ -28,8 +28,8 @@ import (
 	"os"
 	"time"
 
-	"oasis/pkg/sensors/v2.1.3/structs"
-	"oasis/pkg/sensors/v2.1.3/utils"
+	"sensorsanalytics/structs"
+	"sensorsanalytics/utils"
 )
 
 type DebugConsumer struct {

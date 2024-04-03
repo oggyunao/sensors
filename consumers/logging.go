@@ -24,7 +24,7 @@ import (
 	"sync"
 	"time"
 
-	"oasis/pkg/sensors/v2.1.3/structs"
+	"sensorsanalytics/structs"
 )
 
 const (

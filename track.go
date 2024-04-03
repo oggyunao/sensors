@@ -20,10 +20,10 @@ package sensorsanalytics
 import (
 	"fmt"
 	"math/rand"
-	"oasis/pkg/sensors/v2.1.3/structs"
-	"oasis/pkg/sensors/v2.1.3/utils"
 	"os"
 	"runtime"
+	"sensorsanalytics/structs"
+	"sensorsanalytics/utils"
 	"time"
 )
 

@@ -25,7 +25,7 @@ import (
 	"syscall"
 	"time"
 
-	"oasis/pkg/sensors/v2.1.3/structs"
+	"sensorsanalytics/structs"
 )
 
 type ConcurrentLoggingConsumer struct {

@@ -3,7 +3,7 @@ package sensorsanalytics
 
 import (
 	"errors"
-	"oasis/pkg/sensors/v2.1.3/utils"
+	"sensorsanalytics/utils"
 )
 
 func (sa *SensorsAnalytics) BindGenSendBytes3(identity Identity) ([]byte, error) {

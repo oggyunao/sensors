@@ -22,8 +22,8 @@ import (
 	"math/rand"
 	"time"
 
-	"oasis/pkg/sensors/v2.1.3/structs"
-	"oasis/pkg/sensors/v2.1.3/utils"
+	"sensorsanalytics/structs"
+	"sensorsanalytics/utils"
 )
 
 func TrackEvent2(sa *SensorsAnalytics, etype, event, distinctId, originId string, properties map[string]interface{}, isLoginId bool) ([]byte, error) {
