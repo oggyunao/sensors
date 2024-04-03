@@ -1,3 +1,3 @@
-module sensorsanalytics
+module github.com/oggyunao/sensorsanalytics
 
 go 1.20.0
