@@ -3,7 +3,7 @@ package sensorsanalytics
 
 import (
 	"errors"
-	"sensorsanalytics/utils"
+	"github.com/oggyunao/sensorsanalytics/utils"
 )
 
 func (sa *SensorsAnalytics) BindGenSendBytes3(identity Identity) ([]byte, error) {

@@ -19,11 +19,11 @@ package sensorsanalytics
 
 import (
 	"fmt"
+	"github.com/oggyunao/sensorsanalytics/structs"
+	"github.com/oggyunao/sensorsanalytics/utils"
 	"math/rand"
 	"os"
 	"runtime"
-	"sensorsanalytics/structs"
-	"sensorsanalytics/utils"
 	"time"
 )
 

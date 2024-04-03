@@ -20,8 +20,8 @@ package consumers
 import (
 	"time"
 
-	"sensorsanalytics/structs"
-	"sensorsanalytics/utils"
+	"github.com/oggyunao/sensorsanalytics/structs"
+	"github.com/oggyunao/sensorsanalytics/utils"
 )
 
 type Consumer interface {

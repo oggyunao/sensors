@@ -25,7 +25,7 @@ import (
 	"syscall"
 	"time"
 
-	"sensorsanalytics/structs"
+	"github.com/oggyunao/sensorsanalytics/structs"
 )
 
 type ConcurrentLoggingConsumer struct {

@@ -24,7 +24,7 @@ import (
 	"sync"
 	"time"
 
-	"sensorsanalytics/structs"
+	"github.com/oggyunao/sensorsanalytics/structs"
 )
 
 const (

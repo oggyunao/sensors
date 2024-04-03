@@ -1,9 +1,8 @@
-// Package sensorsanalytics /*
 package sensorsanalytics
 
 import (
 	"errors"
-	"sensorsanalytics/utils"
+	"github.com/oggyunao/sensorsanalytics/utils"
 )
 
 const (

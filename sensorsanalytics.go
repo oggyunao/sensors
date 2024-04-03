@@ -20,8 +20,8 @@ package sensorsanalytics
 import (
 	"errors"
 
-	"sensorsanalytics/consumers"
-	"sensorsanalytics/utils"
+	"github.com/oggyunao/sensorsanalytics/consumers"
+	"github.com/oggyunao/sensorsanalytics/utils"
 )
 
 const (

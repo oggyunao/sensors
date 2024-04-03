@@ -22,8 +22,8 @@ import (
 	"math/rand"
 	"time"
 
-	"sensorsanalytics/structs"
-	"sensorsanalytics/utils"
+	"github.com/oggyunao/sensorsanalytics/structs"
+	"github.com/oggyunao/sensorsanalytics/utils"
 )
 
 func TrackEvent2(sa *SensorsAnalytics, etype, event, distinctId, originId string, properties map[string]interface{}, isLoginId bool) ([]byte, error) {
